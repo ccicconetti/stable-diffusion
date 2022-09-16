@@ -2,7 +2,7 @@ Generate images from all the combinations of prompts x biases
 
 ## Prerequisites
 
-- Working conda environment for stable-diffusion scripts called `ldm`.
+- Working conda environment for stable-diffusion scripts called `ldm` (see [README.md](../README.md) instructions)
 - Recent [Imagemagick](https://imagemagick.org/)
 
 ## Running instructions
