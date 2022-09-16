@@ -1,0 +1,12 @@
+Moby-Dick; or, The Whale
+An 1851 novel by Herman Melville
+
+Animated by #StableDiffusion
+https://github.com/CompVis/stable-diffusion
+https://huggingface.co/CompVis
+
+Song Credit Jiarui_Xu
+https://freesound.org/s/497047/
+
+Directed by Claudio Cicconetti
+https://github.com/ccicconetti/
