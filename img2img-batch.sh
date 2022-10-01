@@ -4,10 +4,13 @@ if [ "$PROMPTFILE" == "" ] ; then
   PROMPTFILE=prompts.txt
 fi
 
+if [ "$OUTDIR" == "" ] ; then
+  OUTDIR=outputs
+fi
+
 N_SAMPLES=1
 STRENGTHS="0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9"
 RUNS=5
-OUTDIR=outputs
 
 if [ "$SRC" == "" ] ; then
   echo "please specify the source image in the SRC environment variable"
